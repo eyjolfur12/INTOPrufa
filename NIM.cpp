@@ -1,4 +1,4 @@
-//NIM dabs október 1997
+/NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -31,6 +31,8 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	
+	cout << "Eyjólfur Kristjánsson fikadi í thessum koda";
 	int val;
 	do
 	{
