@@ -1,3 +1,5 @@
+//bara test
+
 /NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
